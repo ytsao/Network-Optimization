@@ -1,13 +1,13 @@
 /*
 [Bellman Ford Algorithm]
-1. 
+1. for each each to compute and update the current cost, if cost[i] + edge(i,j) < cost[j] then update cost[j] by cost[i] + edge(i,j)
 */
 
 #include <bits/stdc++.h>
 
 
 /*
-* 
+* cost: the cost for node i 
 */
 int main(int argc, char **argv){
     
