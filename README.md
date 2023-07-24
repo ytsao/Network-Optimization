@@ -4,3 +4,8 @@
 
 1. Dijkstra Algorithm
 2. Bellman Ford Algorithm
+
+
+<h2> Minimum Spanning Tree</h2>
+
+1. Kruskal Algorithm
