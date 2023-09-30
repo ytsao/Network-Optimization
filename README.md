@@ -9,6 +9,7 @@
 <h2> Minimum Spanning Tree</h2>
 
 1. Kruskal Algorithm
+2. Prim's Algorithm
 
 
 <h2> Others </h2>
