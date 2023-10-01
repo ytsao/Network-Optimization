@@ -15,3 +15,5 @@
 <h2> Others </h2>
 
 1. Topological Sort Algorithm 
+2. Depth First Algorithm (DFS)
+3. Breadth First Algorithm (BFS)
