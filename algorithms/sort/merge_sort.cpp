@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #include <bits/stdc++.h>
 
 void merge_sort(int* arr, int n){
@@ -53,3 +54,46 @@ int main(){
 
     return 0;
 }
+=======
+/*
+Developer: YN
+
+Merge sort 
+	A  sorting algorithm that follows the divide-and-conquer approach.
+	Recursively dividing the input array into small subarrays and sorting those subarrays then merging them back together to obtain the sorted array.
+
+	
+	Step 1: Divide: 
+	Step 2: Conquer:
+	Step 3: Merge:
+
+*/
+
+#include <iostream>
+
+
+void merge_sort(int* input_array){
+
+
+}
+
+void print_array(const int* input_array, const int size){
+	for (int i = 0; i < size; ++i){
+		std::cout << input_array[i] << std::endl;
+	}
+}
+
+
+int main(){
+	
+	int input_array[] = {4, 2, 8, 1};
+	int size = sizeof(input_array)/sizeof(int);
+
+	print_array(input_array, size);
+	merge_sort(input_array);
+	print_array(input_array, size);
+
+
+	return 0;
+}
+>>>>>>> d132c63 (add track sort folder)
